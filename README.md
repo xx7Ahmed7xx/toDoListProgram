@@ -2,6 +2,7 @@
 The repository in which I store my program Code, The first code ever I share.
 
 !! IMPORTANT NOTICE !!
+
 You must edit the connection string in Form1.cs file to the right SERVER NAME and DATABASE NAME so the application can work when you press the DB button
 (apparently any other submitting button)
 
